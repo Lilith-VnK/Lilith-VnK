@@ -1,41 +1,27 @@
+<h1 align="center">Hi 👋, I'm Lilith</h1>
+<h3 align="center">A JavaScript & Luau developer who loves building interactive interfaces</h3>
+
 <div align="center">
 
-# ⚡ Hey, I'm Lilith ⚡
+![](https://komarev.com/ghpvc/?username=Lilith-VnK&color=8A2BE2&style=flat-square)
 
-### JavaScript Developer · Luau Creator · UI Builder
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lilith-VnK&theme=github_dark)](https://github.com/Lilith-VnK)
 
-I build **interactive experiences**—from clean, responsive web interfaces to polished Roblox UI systems.
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lilith-VnK&theme=github_dark)](https://github.com/Lilith-VnK)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lilith-VnK&theme=github_dark)](https://github.com/Lilith-VnK)
 
-🎯 Turning ideas into interfaces that feel smooth, modern, and alive.
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)](#)
-[![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lilith-VnK&theme=github_dark)](https://github.com/Lilith-VnK)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lilith-VnK&theme=github_dark)](https://github.com/Lilith-VnK)
 
 </div>
 
----
+- 🔭 I’m currently building **Roblox UI frameworks** and interactive web experiences  
+- 🌱 I’m learning more about **modern JavaScript**, **UI/UX design**, and **creative coding**  
+- 💬 Ask me about **JavaScript, Luau, Roblox UI, HTML, and CSS**  
+- 📫 Reach me through GitHub: [@Lilith-VnK](https://github.com/Lilith-VnK)  
+- ⚡ Fun fact: I enjoy turning ideas into interfaces that feel smooth, modern, and alive  
 
-## 👨‍💻 About Me
-
-I’m a developer who enjoys creating interfaces that are **clear, interactive, and visually engaging**.
-
-- 🌐 Build interactive web experiences with **JavaScript**
-- 🎮 Create Roblox interfaces and systems using **Luau**
-- 🎨 Focus on clean layouts, smooth interactions, and usable design
-- 🧩 Like modular components, reusable systems, and creative problem-solving
-- 🚀 Always exploring new tools, frameworks, and interface ideas
-
-## 🚀 What I Build
-
-```text
-JavaScript  ──►  Interactive web apps, clean UI, and creative tools
-Luau        ──►  Roblox interfaces, GUI frameworks, and game systems
-```
-
-My favorite part of development is making something that feels intuitive: where layout, interaction, and functionality work together naturally.
-
-## 🧩 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
@@ -57,50 +43,34 @@ Designed to help developers create cleaner, more flexible, and interactive in-ga
 
 </div>
 
-## 🛠️ Skills & Tools
-
-| Area | Tools & Technologies |
-|---|---|
-| **Front-end** | JavaScript, HTML, CSS |
-| **Roblox development** | Luau, UI systems, game interfaces |
-| **Design focus** | UI/UX, layouts, interactions, visual consistency |
-| **Workflow** | Git, GitHub, problem-solving |
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="33" alt="JavaScript" />
+<img width="10" />
+<img src="https://img.shields.io/badge/Luau-00A2FF?logo=lua&logoColor=white&style=for-the-badge" height="33" alt="Luau" />
+<img width="10" />
+<img src="https://img.shields.io/badge/Roblox-000000?logo=roblox&logoColor=white&style=for-the-badge" height="33" alt="Roblox" />
+<img width="10" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="33" alt="HTML5" />
+<img width="10" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="33" alt="CSS3" />
+<img width="10" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="33" alt="Git" />
+<img width="10" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="33" alt="GitHub" />
 
 </div>
 
-## 🌱 Currently Exploring
+<h2 align="center">🤝 Let’s Build Something Cool</h2>
 
-```text
-Modern JavaScript  •  UI/UX design  •  Roblox interfaces  •  Creative coding
-```
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lilith-VnK&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilith-VnK&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let’s Build Something Cool
-
+<p align="center">
 I’m open to creative projects, Roblox UI work, developer tools, and open-source collaboration.
+</p>
 
-**[Explore my repositories →](https://github.com/Lilith-VnK?tab=repositories)**
-
-</div>
+<p align="center">
+<a href="https://github.com/Lilith-VnK?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
+</a>
+</p>
